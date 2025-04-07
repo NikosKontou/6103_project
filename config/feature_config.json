@@ -1,0 +1,25 @@
+{
+"ordinal_map" : {
+    "Exter_Qual":        ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Exter_Cond":        ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Bsmt_Qual":         ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Bsmt_Cond":         ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Heating_QC":        ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Kitchen_Qual":      ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Fireplace_Qu":      ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Garage_Qual":       ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Garage_Cond":       ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Pool_QC":           ["None", "Po", "Fa", "TA", "Gd", "Ex"],
+    "Bsmt_Exposure":     ["None", "No", "Mn", "Av", "Gd"],
+    "BsmtFin_Type_1":    ["None", "Unf", "LwQ", "Rec", "BLQ", "ALQ", "GLQ"],
+    "BsmtFin_Type_2":    ["None", "Unf", "LwQ", "Rec", "BLQ", "ALQ", "GLQ"],
+    "Functional":        ["Sal", "Sev", "Maj2", "Maj1", "Mod", "Min2", "Min1", "Typ"],
+    "Garage_Finish":     ["None", "Unf", "RFn", "Fin"],
+    "Paved_Drive":       ["N", "P", "Y"],
+    "Fence":             ["None", "MnWw", "GdWo", "MnPrv", "GdPrv"],
+    "Lot_Shape":         ["IR3", "IR2", "IR1", "Reg"],
+    "Land_Slope":        ["Sev", "Mod", "Gtl"]
+}
+}
+
+  
