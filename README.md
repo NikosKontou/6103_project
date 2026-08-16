@@ -1,10 +1,3 @@
-# General Instructions
-
-## Plagiarism  
-Plagiarism is the act of using another’s words, ideas, or organizational patterns without crediting or acknowledging the source. This includes work generated or modified by AI. In particular, the use of generative AI that violates the instructor’s articulated policy or using it to complete an assessment (e.g., project, midterm) in a way not explicitly permitted by the instructor will be considered a breach of academic integrity.  
-
-# Specific Instructions  
-
 To carry out the classification, clustering, and regression tasks, you may need to consider the following steps:  
 
 1. **Data description & visualization** that aids in the comprehension of the problem.  
